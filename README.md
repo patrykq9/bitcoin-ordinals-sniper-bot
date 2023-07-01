@@ -1,13 +1,12 @@
-# bitcoin-ordinals-sniper-bot
-A simple bot to buy bitcoin NFTs on ordinalswallet. Written on .Net using Nethereum and HTTP API.
+# bitcoin-ordinals-bot
+Simple bot to buy bitcoin NFT on ordinalswallet. Written on .Net using Nethereum and HTTP API.
 
 Algorithm:
+1. Get listed items by collection name
+2. Find items by floor price
+3. Buy items if price is good
+4. Sell item by higher price
+5. ???
+6. PROFIT!
 
-    Get listed items by collection name
-    Find items by floor price
-    Buy items if price is good
-    Sell item by higher price
-    ???
-    PROFIT!
-
-![scr](https://github.com/patrykq9/bitcoin-ordinals-sniper-bot/assets/114875426/55c0db38-8c67-46ff-b08f-bc3c6adf0f1a)
+![alt text](https://github.com/JamieNoonan/bitcoin-ordinals-bot/blob/main/scr.png?raw=true)
